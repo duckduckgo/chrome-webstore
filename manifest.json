@@ -4,9 +4,9 @@
 	"manifest_version": 1,
 	"description": "Quick link to DuckDuckGo search engine",
 	"icons": {
-		"16": "duckduckgo_16.png",
-		"48": "duckduckgo_48.png",
-		"128": "duckduckgo_128.png"
+		"16": "img/icon_16.png",
+		"48": "img/icon_48.png",
+		"128": "img/icon_128.png"
 		},
 	"app": {
 		"urls": [ "https://www.duckduckgo.com" ],
