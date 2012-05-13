@@ -1,12 +1,12 @@
 {
 	"name": "DuckDuckGo",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"manifest_version": 1,
 	"description": "Quick link to DuckDuckGo search engine",
 	"icons": {
-		"16": "duckduckgo_16.png",
-		"48": "duckduckgo_48.png",
-		"128": "duckduckgo_128.png"
+		"16": "img/duckduckgo_16.png",
+		"48": "img/duckduckgo_48.png",
+		"128": "img/duckduckgo_128.png"
 		},
 	"app": {
 		"urls": [ "https://www.duckduckgo.com" ],
