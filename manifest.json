@@ -9,7 +9,7 @@
 		"128": "img/duckduckgo_128.png"
 		},
 	"app": {
-		"urls": [ "https://www.duckduckgo.com/" ],
-		"launch": { "web_url": "https://www.duckduckgo.com/" }
+		"urls": [ "https://duckduckgo.com/" ],
+		"launch": { "web_url": "https://duckduckgo.com/" }
 	}
 }
