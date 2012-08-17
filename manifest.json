@@ -1,7 +1,7 @@
 {
 	"name": "DuckDuckGo Home Page",
-	"version": "0.0.7",
-	"manifest_version": 1,
+	"version": "0.0.8",
+	"manifest_version": 2,
 	"description": "Quick link to DuckDuckGo search engine.",
 	"icons": {
 		"16": "img/duckduckgo_16.png",
